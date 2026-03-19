@@ -1,3 +1,3 @@
 ## Hi there 👋 aqui é o Rodrigo Armengol de Oliveira
 
-![dançando](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+![dançando](https://br.pinterest.com/pin/694258098826070831/)
