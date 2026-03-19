@@ -1,4 +1,5 @@
 ## Hi there 👋 aqui é o Rodrigo Armengol de Oliveira!
+Estudante de Engenharia de Software no instituto Nacional de Telecomunicações.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armengol2&layout=donut" width="400"/>
