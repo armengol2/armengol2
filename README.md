@@ -1,3 +1,5 @@
 ## Hi there 👋 aqui é o Rodrigo Armengol de Oliveira
 
-![dançando](https://tenor.com/pt-BR/view/neco-arc-dance-gif-26534603)
+<p align="center">
+  <img src="./assets/gatinho.gif" width="180" />
+</p>
