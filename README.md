@@ -1,5 +1,5 @@
 ## Hi there 👋 aqui é o Rodrigo Armengol de Oliveira
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a2bef3dd-7adb-4c49-8480-a6bd20af02aa" width="80" />
+  <img src="https://github.com/user-attachments/assets/16ac1d8f-6759-466a-ada8-d4452f31a0b6" width="80" />
 </p>
