@@ -7,7 +7,7 @@ Estudante de Engenharia de Software no Instituto Nacional de Telecomunicações.
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/MySQL.svg">
+  <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cplusplus" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
