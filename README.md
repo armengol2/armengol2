@@ -1,4 +1,4 @@
-## Hi there 👋 Aqui é Rodrigo Armengol de Oliveira!
+## Hi there 👋 Eu sou o Rodrigo Armengol de Oliveira!
 Estudante de Engenharia de Software no Instituto Nacional de Telecomunicações.
 
 <p align="center">
