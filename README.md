@@ -3,18 +3,9 @@
 Estudante de Engenharia de Software no Instituto Nacional de Telecomunicações.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e657081-7a23-421b-a965-8e10f466e514" width="90"/>
+  <img src="./assets/top-langs.svg" width="400" />
+  <img src="https://github.com/user-attachments/assets/4e657081-7a23-421b-a965-8e10f466e514" width="90" />
 </p>
-
-### 🚀 Tecnologias
-
-| Linguagem / Ferramenta | Proficiência |
-|------------------------|--------------|
-| Java                   | ████████████████░░░░ |
-| Python                 | ██████████████░░░░░░ |
-| JavaScript             | ████████████░░░░░░░░ |
-| MySQL                  | █████████████░░░░░░░ |
-| C++                    | ██████████░░░░░░░░░░ |
 
 <p align="center">
   <img alt="Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
