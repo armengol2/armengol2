@@ -1,7 +1,3 @@
-<h1>O melhor amigo das tartarugas</h1>
-<img src="https://i.imgur.com/mgAzREd.gif" width="1080" />
-
-
 ## Hi there 👋 Eu sou o Rodrigo Armengol de Oliveira!
 
 Estudante de Engenharia de Software no Instituto Nacional de Telecomunicações.
