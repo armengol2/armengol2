@@ -2,8 +2,6 @@
 
 Sou estudante de Engenharia de Software no Instituto Nacional de Telecomunicações (INATEL),
 
-## Tecnologias e ferramentas
-
 <div align="center">
   <img alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
