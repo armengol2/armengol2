@@ -13,3 +13,14 @@ Sou estudante de Engenharia de Software no Instituto Nacional de Telecomunicaç�
   <img alt="Docker" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img alt="Git" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
+## Projetos em destaque
+
+### GymSync
+Sistema para monitoramento de treinos de academia e fisioterapia, com foco em análise e organização de dados. Atuei na modelagem e implementação do banco de dados e na integração com microcontrolador ATmega328P. Projeto premiado com 1º lugar na categoria Impacto Social na FETIN.
+
+### AdotaPet
+API voltada para adoção de cães e gatos em situação de rua. Atuação no desenvolvimento e QA do back-end, com foco em organização do código, testes e integração com banco de dados.
+
+### Projetos acadêmicos
+Também desenvolvo projetos acadêmicos envolvendo análise de dados, qualidade de software, testes automatizados, bancos de dados e desenvolvimento de sistemas.
