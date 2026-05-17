@@ -1,20 +1,6 @@
 ## Olá, eu sou Rodrigo Armengol de Oliveira
 
-Sou estudante de Engenharia de Software no Instituto Nacional de Telecomunicações (INATEL), atualmente no 8º período. Tenho interesse em desenvolvimento de software, especialmente nas áreas de back-end, bancos de dados, APIs e análise de dados.
-
-<p align="center">
-  <a href="https://github.com/armengol2/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=armengol2&layout=donut&bg_color=161b22&title_color=c9d1d9&text_color=8b949e&hide_border=true"
-      height="220"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github.com/user-attachments/assets/4e657081-7a23-421b-a965-8e10f466e514"
-    height="100"
-  />
-</p>
+Sou estudante de Engenharia de Software no Instituto Nacional de Telecomunicações (INATEL),
 
 <p align="center">
   <img alt="Java" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
