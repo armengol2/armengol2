@@ -19,4 +19,4 @@ Sou estudante de Engenharia de Software no Instituto Nacional de Telecomunicaç�
 API voltada para adoção de cães e gatos em situação de rua. Atuação no desenvolvimento e QA do back-end, com foco em organização do código, testes e integração com banco de dados.
 
 ### Projetos acadêmicos
-Também desenvolvo projetos acadêmicos envolvendo análise de dados, qualidade de software, testes automatizados, bancos de dados e desenvolvimento de sistemas.
+Também desenvolvo projetos acadêmicos envolvendo análise de dados, qualidade de software, testes automatizados, bancos de dados, PO e CI/CD.
